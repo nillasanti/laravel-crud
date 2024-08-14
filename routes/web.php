@@ -4,7 +4,10 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ReligionController;
 
 Route::get('/', function () {
-    return view('religion.list');
+    return view('welcome');
+});
+Route::get('/random', function () {
+    return view('random');
 });
 
 Route::resource('/religion', \App\Http\Controllers\ReligionController::class);

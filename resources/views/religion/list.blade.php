@@ -48,7 +48,8 @@
                               @endforelse
                             </tbody>
                           </table>  
-                         
+                        </br>
+                          <a href="/" class="btn btn-md btn-secondary mb-3">Back to starter page</a>
                     </div>
                 </div>
             </div>

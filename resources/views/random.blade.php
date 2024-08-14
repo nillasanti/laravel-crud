@@ -19,19 +19,10 @@
     <body class="bg-dark">
         <div class="bg-dark" style="padding:60px; align:center;">
             <div class="jumbotron bg white">
-                <h1 class="display-4">Hello, world!</h1>
-                <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
-                <hr class="my-4">
-                <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
-                <div class="row">
-                    <div class="col">
-                        <a class="btn btn-primary btn-lg" href="/religion" role="button">Master Page</a>
-                        <a class="btn btn-secondary btn-lg" href="/random" role="button">Random Page</a>
-                    </div>
-                    <!-- <div class="col-md-8">
-                        <a class="btn btn-secondary btn-lg" href="/random" role="button">Random Page</a>
-                    </div> -->
-                </div>
+                <h1 class="display-4">Lorem Ipsum Page</h1>
+                <p class="lead">This is just a random page, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                <a class="btn btn-primary btn-lg" href="/religion" role="button">Master Page</a>
             </div>
         </div>
     </body>
